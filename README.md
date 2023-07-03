@@ -135,6 +135,7 @@ Here are some guides for deployment to different cloud providers.
 - [Gitpod](https://github.com/aahnik/tgcf/wiki/Run-for-free-on-Gitpod")
 - [Python Anywhere](https://github.com/aahnik/tgcf/wiki/Run-on-PythonAnywhere)
 - [Google Cloud Run](https://github.com/aahnik/tgcf/wiki/Run-on-Google-Cloud)
+- [![Run on Repl.it](https://replit.com/badge/github/25gabriel-cmyk/tgcf)](https://replit.com/new/github/25gabriel-cmyk/tgcf)
 
 ## Getting Help
 
