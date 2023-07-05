@@ -14,6 +14,8 @@
       pkgs.glib
       # Needed for matplotlib
       pkgs.xorg.libX11
+      # Needed for OpenSSL
+      pkgs.openssl_1_1
     ];
     PYTHONHOME = "${pkgs.python310Full}";
     PYTHONBIN = "${pkgs.python310Full}/bin/python3.10";
