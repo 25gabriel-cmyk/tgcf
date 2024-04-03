@@ -7,7 +7,7 @@
 <h1 align="center"> tgcf </h1>
 
 <p align="center">
-The ultimate tool to automate custom telegram message forwarding.
+The ultimate tool to automate custom telegram message forwarding. Forked from Aahnik
 </p>
 
 <p align="center">
